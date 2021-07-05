@@ -1,0 +1,43 @@
+body {
+  background: url('assets/img/fundo.jpeg');
+  background-repeat: no-repeat;
+  background-size: 300%;
+  color: black;
+}
+#menu {
+  font-size: 200%;
+  color: white;
+  cursor: pointer;
+  margin-left: 2px;
+ 
+}
+#close {
+  color: white;
+  cursor: pointer;
+  font-size: 200%;
+  margin-left: 2px;
+  margin-top: 1px;
+}
+a {
+  color: white;
+  text-decoration: none;
+  border: none;
+}
+nav {
+  background: black;
+  width: 198px;
+}
+.letra {
+  font-size: 100%;
+  padding: 20px;
+  
+}
+.letra:hover {
+  background: dimgray;
+}
+.conteudo {
+  text-align: center;
+  color: white;
+  padding: 10px;
+  border: none;
+}
